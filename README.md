@@ -7,7 +7,7 @@ Boilerplate configuration for react webpack.
 	3.Run npm start to run server ==> npm run start
 	4.Start webpack in product environment to build ==> npm run build
 	5.Go to your browser and type http://localhost/3000 
-For any bugs, please leave a feedback to 944831575@qq.com Thank you :)
+For any bugs, please leave a email to 944831575@qq.com Thank you :)
 
 
 
