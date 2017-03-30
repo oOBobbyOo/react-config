@@ -12,7 +12,7 @@ module.exports  = {
 		hot: true,
 	    inline: true,
 	    historyApiFallback: true,
-	    port: 3000
+	    port: 8000
 	},
 	resolve:{
 	    extensions:['', '.js', '.jsx']
